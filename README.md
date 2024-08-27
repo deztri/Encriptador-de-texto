@@ -1,7 +1,3 @@
-######- *__MI PRIMER REPOSITORIO__*
-
-[TOCM]
-
 # Encriptador de Texto
 ¡Hola! Soy Jesús D. Ramírez, un apasionado por la tecnología, la ciencia, la innovación y el desarrollo humano. Actualmente estoy cursando una carrera en administración de negocios internacionales y continuamente busco expandir mis conocimientos en el ámbito de la tecnología. Este proyecto forma parte de mi aprendizaje en el curso Oracle Next Education (ONE) de la séptima generación, G7, como estudiante en Alura Latam.
 
